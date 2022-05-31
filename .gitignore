@@ -22,5 +22,9 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
-# JS Test Playground
+# JS Test Playground Files
 src/playground.js
+tests/unit/playground.test.js
+
+# Test Coverage
+coverage
