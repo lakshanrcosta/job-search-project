@@ -3,6 +3,7 @@
     :src="imageURL"
     alt="Profile Picture"
     class="w-8 h-8 object-contain rounded-3xl"
+    data-test="profile-image"
   />
 </template>
 
